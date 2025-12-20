@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Model files (optional – if too large)
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
