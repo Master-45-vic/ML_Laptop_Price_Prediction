@@ -92,9 +92,10 @@ The project includes a **Streamlit-based web interface** where users can input l
 
 (Add your Streamlit app screenshot here)
 
-```
-![App Screenshot](images/app.png)
-```
+
+![App Screenshot](Website_IMAGE.png)
+![](Website_IMAGE2.png)
+
 
 ---
 
